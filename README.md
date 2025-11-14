@@ -2,6 +2,8 @@
 
 A modern e-commerce product catalog built with Next.js 14 and TypeScript. Browse products, search in real-time, and manage your shopping cart - all with a smooth, responsive interface.
 
+**Live Demo**: [https://neufin-seven.vercel.app](https://neufin-seven.vercel.app)
+
 ## What it does
 
 This is a full-featured product browsing experience with:
